@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color bg_light
+color black
+color blue_bg
+color blue_dark
+color blue_primary
+color white
+drawable circle_avatar
+drawable default_avatar
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable login_background
+id btnEdit
+id btnHapus
+id btnSimpan
+id etAlamat
+id etFoto
+id etNama
+id etNip
+id fabAdd
+id imgFoto
+id rvDosen
+id toolbar
+id tvAlamat
+id tvNama
+id tvNip
+layout activity_form_dosen
+layout activity_main
+layout item_dosen
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Login
+style Theme.Login
