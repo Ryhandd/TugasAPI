@@ -16,3 +16,4 @@ local.properties
 API.js
 node_modules
 *.json
+*.log
