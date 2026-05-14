@@ -1,4 +1,4 @@
-# 🚀 Tugas API - Integrasi Supabase (Skema Akademik)
+# Tugas Pemrograman Mobile: API & Integrasi Supabase (Skema Akademik)
 
 Proyek ini adalah implementasi API untuk mengelola data profil mahasiswa/pegawai yang terintegrasi dengan database **Supabase**. Dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile/Web di Semester 4.
 
@@ -32,7 +32,6 @@ Data yang dikelola dalam API ini mencakup:
 * **Nama:** Rayhand N. U. Wumu
 * **NIM:** 24024010
 * **Kelas:** 4TI1
-* **Semester:** 4
 * **Program Studi:** Teknik Informatika
 
 ---
